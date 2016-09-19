@@ -1,6 +1,8 @@
 sailthru-node-client
 ====================
 
+gpittarelli fork: adds getIncludes, getInclude (variants of getTemplate(s) but for includes)
+
 For installation instructions, documentation, and examples please visit:
 <http://getstarted.sailthru.com/new-for-developers-overview/api-client-library/node-js-npm>
 
